@@ -13,6 +13,10 @@
 ![UI](./public/img.PNG)
 
 
+### todo
+
+- Tweaking the table by study the component which supports all the features. Below supports all of the features but they are licensed.
+
 ### References
 
 - https://mdbootstrap.com/docs/react/tables/editable/
