@@ -1,0 +1,15 @@
+.dataTables_filter {
+    float: right;
+}
+
+.dataTables_length{
+    display : none;
+}
+
+.h-divider{
+    margin-top:5px;
+    margin-bottom:5px;
+    height:1px;
+    width:100%;
+    border-top:3px solid #9f27dd;
+}
